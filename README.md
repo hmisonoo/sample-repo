@@ -1,2 +1,4 @@
 # sample-repo
-Git練習用
+git add <filename>
+git add . 配下のすべてのファイル、フォルダをstaging areaに追加
+git status
